@@ -1,5 +1,6 @@
 tiaudiomanager
 ==============
+Simple Audio volume setter/getter for Android (Titanium module).
 
 constants
 ==============
