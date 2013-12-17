@@ -32,7 +32,7 @@ usage
       tiaudiomanager.setVolume({
         streamType: tiaudiomanager.STREAM_RING,
         volume: 2
-      }); // both streamType and volume attrs are REQUIRED
+      }); // both streamType and volume are REQUIRED
     });
 
 License
