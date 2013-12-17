@@ -4,10 +4,15 @@ tiaudiomanager
 constants
 ==============
 STREAM_RING
+
 STREAM_NOTIFICATION
+
 STREAM_SYSTEM
+
 STREAM_VOICE_CALL
+
 STREAM_MUSIC
+
 STREAM_ALARM
 
 usage
@@ -28,3 +33,7 @@ usage
         volume: 2
       }); // both streamType and volume attrs are REQUIRED
     });
+
+License
+==============
+[MIT]: http://www.opensource.org/licenses/mit-license.php
